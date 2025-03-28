@@ -1,0 +1,1 @@
+# This program will get input from user their name, school, and major, and display the input information into the following message, For example,“Nice to meet you, my name is Joanna, I am studying at WKU for my major Accouting”

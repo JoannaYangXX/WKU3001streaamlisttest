@@ -1,0 +1,8 @@
+s=>start: Start
+e=>end: End
+op1=>operation: "My Operation"
+op2=>operation: "Python programming is fun"
+op3=>operation: "파이톤 프로그래밍은 즐겁다"
+op4=>operation: "Python 编程很有趣"
+
+s->op1->op2->op3->op4->e
